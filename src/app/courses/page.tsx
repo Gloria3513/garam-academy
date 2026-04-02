@@ -114,7 +114,7 @@ export default function CoursesPage() {
             <div className="text-sm text-blue-800">
               <p className="font-medium">국비지원 안내</p>
               <p className="mt-1 text-blue-700">
-                본 교육원의 직업능력개발훈련 과정은 고용노동부 인정 과정으로 수강료가 100% 국비 지원됩니다.{" "}
+                본 교육원의 직업능력개발훈련 과정은 고용노동부 인정 과정으로 수강료 대부분이 국비 지원됩니다 (자부담 일부).{" "}
                 <a href="https://www.hrd.go.kr" target="_blank" rel="noopener noreferrer" className="underline font-medium">
                   HRD-Net
                 </a>

@@ -149,7 +149,7 @@ export default function HomePage() {
             {[
               { value: "4개", label: "훈련과정 운영" },
               { value: "40시간", label: "과정별 교육시간" },
-              { value: "100%", label: "국비지원" },
+              { value: "국비지원", label: "자부담 일부" },
               { value: "신천동", label: "교육 거점" },
             ].map((stat) => (
               <div key={stat.label}>
@@ -286,8 +286,8 @@ export default function HomePage() {
             {[
               {
                 icon: "🏫",
-                title: "국비지원 100%",
-                desc: "고용노동부 인정 직업능력개발훈련으로 수강료 전액 국비 지원",
+                title: "국비지원 교육",
+                desc: "고용노동부 인정 직업능력개발훈련으로 수강료 대부분 국비 지원 (자부담 일부)",
               },
               {
                 icon: "💻",
