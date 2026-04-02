@@ -150,7 +150,7 @@ export default function HomePage() {
               { value: "4개", label: "훈련과정 운영" },
               { value: "40시간", label: "과정별 교육시간" },
               { value: "100%", label: "국비지원" },
-              { value: "배곧", label: "교육 거점" },
+              { value: "신천동", label: "교육 거점" },
             ].map((stat) => (
               <div key={stat.label}>
                 <div className="text-2xl sm:text-3xl font-bold text-[var(--color-primary)]">

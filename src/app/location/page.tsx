@@ -47,7 +47,7 @@ export default function LocationPage() {
                       />
                     </svg>
                     <p className="mt-3 text-sm text-[var(--color-text-light)]">
-                      경기도 시흥시 배곧동
+                      경기도 시흥시 신천동
                     </p>
                     <p className="mt-1 text-xs text-[var(--color-text-light)]/60">
                       지도 서비스 연동 예정
@@ -86,10 +86,10 @@ export default function LocationPage() {
                     <div>
                       <div className="text-xs text-[var(--color-text-light)]">주소</div>
                       <div className="text-sm font-medium text-[var(--color-text)]">
-                        경기도 시흥시 배곧동
+                        경기도 시흥시 신천동
                       </div>
                       <div className="text-xs text-[var(--color-text-light)] mt-0.5">
-                        (배곧아이누리 연계 교육장)
+                        (가람평생교육원)
                       </div>
                     </div>
                   </li>

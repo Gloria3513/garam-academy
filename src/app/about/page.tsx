@@ -46,8 +46,8 @@ export default function AboutPage() {
               {
                 icon: "📍",
                 label: "교육 거점",
-                value: "경기도 시흥시 배곧",
-                sub: "배곧아이누리 연계",
+                value: "경기도 시흥시 신천동",
+                sub: "가람평생교육원",
               },
               {
                 icon: "📅",
